@@ -1,6 +1,6 @@
 <html>
-<body bgcolor ="#aa1244">
-<h2>sampe html file deployment in AWS</h2>
-<h1>CI/CD deployments</h1>
+<body bgcolor ="#aa1366">
+<h2>deployment in AWS</h2>
+<h1>CI/CD deployment in AWS</h1>
 </body>
 </html>
